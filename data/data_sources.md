@@ -12,13 +12,13 @@ https://cds.climate.copernicus.eu
 | Dataset | ERA5 hourly data on single levels |
 | CDS ID | reanalysis-era5-single-levels |
 | Variable | Total precipitation (tp) |
-| Period | 1980–2020 |
+| Period | 1980–2026 |
 | Months | DJF (Dec, Jan, Feb) and JJA (Jun, Jul, Aug) |
 | Days | All |
 | Time | 00:00 UTC |
 | Resolution | 0.25° × 0.25° (native ERA5) |
 | Format | NetCDF4 |
-| File | data/raw/era5_precip_1980_2020_DJF_JJA.nc |
+| File | data/raw/era5_precip_1980_2026_DJF_JJA.nc |
 | Downloaded | 2026-04-22 |
 
 ---
@@ -30,13 +30,13 @@ https://cds.climate.copernicus.eu
 | Dataset | ERA5 hourly data on pressure levels |
 | CDS ID | reanalysis-era5-pressure-levels |
 | Variable | Geopotential (z) at 500 hPa |
-| Period | 1980–2020 |
+| Period | 1980–2026 |
 | Months | DJF (Dec, Jan, Feb) and JJA (Jun, Jul, Aug) |
 | Days | All |
 | Time | 00:00 UTC |
 | Resolution | 0.25° × 0.25° (native ERA5) |
 | Format | NetCDF4 |
-| File | data/raw/era5_z500_1980_2020_DJF_JJA.nc |
+| File | data/raw/era5_z500_1980_2026_DJF_JJA.nc |
 | Downloaded | 2026-04-22 |
 
 ---
@@ -67,9 +67,9 @@ literature. Key properties:
 
 ---
 
-## Why 1980–2020?
+## Why 1980–2026?
 
-The 40-year period 1980–2020 provides:
+The 40-year period 1980–2026 provides:
 - Sufficient extreme events per grid cell for robust
   event synchronization statistics
 - Full overlap with the satellite era (post-1979),
