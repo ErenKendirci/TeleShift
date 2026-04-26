@@ -35,6 +35,7 @@ with stronger Rossby wave activity in the colder season.
 
 ## Project Structure
 
+```
 TeleShift/
 ├── data/
 │   ├── raw/              ← ERA5 .nc files (not tracked by git)
@@ -45,6 +46,7 @@ TeleShift/
 │   ├── 03_analysis.ipynb
 │   └── 04_visualization.ipynb
 └── figures/              ← exported maps and plots
+```
 
 ## Reproducing this project
 
