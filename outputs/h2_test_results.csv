@@ -1,0 +1,4 @@
+test,statistic,dof,p_value,significant
+Chi-squared (6 bands),222.5864,4,< 0.001,YES
+KS test,0.284,N/A,< 0.001,YES
+Chi-squared (NH/SH),125.5145,1,< 0.001,YES

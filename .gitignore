@@ -212,3 +212,9 @@ data/raw/
 *.nc
 *.grib
 .cdsapirc
+outputs/es_DJF.npy
+outputs/es_JJA.npy
+outputs/adj_DJF.npy
+outputs/adj_JJA.npy
+outputs/network_DJF.gexf
+outputs/network_JJA.gexf

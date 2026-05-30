@@ -1,0 +1,4 @@
+hypothesis,statement,verdict,primary_test,primary_statistic,primary_p_value,effect_size,key_unexpected_finding
+H1,Winter networks have higher connectivity than summer,Strongly supported,Permutation test,Δ mean out-degree = 51.17,< 0.001,+93.1% more directed edges in DJF,Right-skewed degree distribution — median = 5 both seasons; extreme hubs drive mean difference
+H2,Hub regions shift geographically between seasons,Supported with nuance,Chi-squared (5 latitude bands),"χ² = 222.59, df = 4",< 0.001,+21.3° northward hub latitude shift,Southern Ocean dominates both seasons; tropical monsoon hub dominance not observed; NH storm tracks activate in DJF
+H3,Long-distance links more abundant in winter,Strongly supported,Two-proportion z-test,z = 198.13,< 0.001,+14.98 pp long-range link fraction,"Long-range advantage concentrated in 2,500–5,000 km range; DJF percolation morphology gradual vs JJA abrupt"
