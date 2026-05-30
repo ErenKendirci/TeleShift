@@ -48,6 +48,17 @@ TeleShift/
 └── figures/              ← exported maps and plots
 ```
 
+## Notebooks
+
+> GitHub cannot render large notebooks directly. Use the links below to view them.
+
+| Notebook | Description | View |
+|---|---|---|
+| 01_data_collection | ERA5 data download and extreme event extraction | [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/ErenKendirci/TeleShift/blob/main/notebooks/01_data_collection.ipynb) |
+| 02_network_construction | Event Synchronization matrix and network building | [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/ErenKendirci/TeleShift/blob/main/notebooks/02_network_construction.ipynb) |
+| 03_analysis | Hypothesis testing (H1, H2, H3) | [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/ErenKendirci/TeleShift/blob/main/notebooks/03_analysis.ipynb) |
+| 04_visualization | Maps, figures, and poster outputs | [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/ErenKendirci/TeleShift/blob/main/notebooks/04_visualization.ipynb) |
+
 ## Reproducing this project
 
 1. Register at https://cds.climate.copernicus.eu
